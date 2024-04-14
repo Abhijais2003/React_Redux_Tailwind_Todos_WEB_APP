@@ -1,5 +1,5 @@
 # React Todo App
-A simple todo application built with React, featuring drag-and-drop functionality, filter options, and a responsive design. Users can create, toggle, and delete todo items. Styled with Tailwind CSS and uses localStorage for persistent storage.
+A simple todo application built with React with redux, featuring drag-and-drop functionality, filter options, and a responsive design. Users can create, toggle, and delete todo items. Styled with Tailwind CSS and uses localStorage for persistent storage.
 
 ## Features
 - Create, toggle, and delete todo items
