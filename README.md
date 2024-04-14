@@ -14,13 +14,13 @@ A simple todo application built with React, featuring drag-and-drop functionalit
 ![Screenshot](screenshot/Screenshot_back.png)
 
 ## Installation
+
 Follow these steps to run the application locally:
 
-Clone this repository to your local machine:
-
-bash
-Copy code
+1- Clone this repository to your local machine:
+```
 git clone https://github.com/your-username/react-todo-app.git
+```
 Navigate to the project directory:
 
 bash
