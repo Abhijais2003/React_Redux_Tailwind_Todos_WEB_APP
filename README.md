@@ -26,7 +26,7 @@ This project was created as part of an internship for __Quadb Tech__.
 
 1- Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/react-todo-app.git
+https://github.com/Abhijais2003/React_Redux_Tailwind_Todos_WEB_APP.git
 ```
 
 2- Navigate to the project directory:
