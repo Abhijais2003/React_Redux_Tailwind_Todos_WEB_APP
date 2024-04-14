@@ -9,10 +9,16 @@ This project was created as part of an internship for __Quadb Tech__.
 - Responsive design for mobile and desktop
 
 ## Screenshots
-### Light Mode
+### Modes 
+#### Light Mode
 ![Screenshot](screenshot/Screenshot_white.png)
-### Dark Mode
+#### Dark Mode
 ![Screenshot](screenshot/Screenshot_back.png)
+### Responsiveness
+#### Mobile View
+![Screenshot](screenshot/Screenshot_Mobile.png)
+#### Tablet View
+![Screenshot](screenshot/Screenshot_tab.png)
 
 ## Installation
 
