@@ -47,6 +47,7 @@ npm start
 ## Technologies Used
 
 - React
+- Redux
 - Tailwind CSS
 - localStorage
 
