@@ -15,10 +15,15 @@ This project was created as part of an internship for __Quadb Tech__.
 #### Dark Mode
 ![Screenshot](screenshot/Screenshot_back.png)
 ### Responsiveness
-#### Mobile View
-![Screenshot](screenshot/Screenshot_Mobile.png)
-#### Tablet View
-![Screenshot](screenshot/Screenshot_tab.png)
+<div style="text-align: center;">
+  <h3>Responsiveness</h3>
+  
+  <h4>Mobile View</h4>
+  <img src="screenshot/Screenshot_Mobile.png" alt="Mobile View" style="display: inline-block; max-width: 100%; height: auto;">
+  
+  <h4>Tablet View</h4>
+  <img src="screenshot/Screenshot_tab.png" alt="Tablet View" style="display: inline-block; max-width: 100%; height: auto;">
+</div>
 
 ## Installation
 
