@@ -9,7 +9,7 @@ Responsive design for mobile and desktop
 Screenshots
 
 ## Light Mode
-![Screenshot](screenshot/Screenshot_white)
+![Screenshot](screenshots/Screenshot_white.png)
 ## Dark Mode
 
 Installation
