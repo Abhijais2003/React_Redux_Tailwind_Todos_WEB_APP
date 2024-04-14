@@ -2,17 +2,18 @@
 A simple todo application built with React, featuring drag-and-drop functionality, filter options, and a responsive design. Users can create, toggle, and delete todo items. Styled with Tailwind CSS and uses localStorage for persistent storage.
 
 ## Features
-Create, toggle, and delete todo items
-Drag-and-drop functionality for reordering todos
-Filter options for displaying active, completed, or all todos
-Responsive design for mobile and desktop
-Screenshots
+- Create, toggle, and delete todo items
+- Drag-and-drop functionality for reordering todos
+- Filter options for displaying active, completed, or all todos
+- Responsive design for mobile and desktop
 
-## Light Mode
+## Screenshots
+### Light Mode
 ![Screenshot](screenshot/Screenshot_white.png)
-## Dark Mode
+### Dark Mode
+![Screenshot](screenshot/Screenshot_back.png)
 
-Installation
+## Installation
 Follow these steps to run the application locally:
 
 Clone this repository to your local machine:
